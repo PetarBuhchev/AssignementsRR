@@ -74,6 +74,24 @@ namespace Homework04._12._2023
         {
             clas.student1 = newStudent;
         }
-        public
+        public void Print()
+        {
+            Console.WriteLine(this.className);
+
+            Console.WriteLine(this.student1.StudentName);
+            Console.WriteLine(this.student1.EGN);
+            Console.WriteLine(this.student1.GradeBel);
+            Console.WriteLine(this.student1.GradeMath);
+
+            Console.WriteLine(this.student2.StudentName);
+            Console.WriteLine(this.student2.EGN);
+            Console.WriteLine(this.student2.GradeBel);
+            Console.WriteLine(this.student2.GradeMath);
+            
+            Console.WriteLine(this.student3.StudentName);
+            Console.WriteLine(this.student3.EGN);
+            Console.WriteLine(this.student3.GradeBel);
+            Console.WriteLine(this.student3.GradeMath);
+        }
     }
 }

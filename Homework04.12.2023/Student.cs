@@ -11,9 +11,9 @@ namespace Homework04._12._2023
     {
         public string StudentName { get; set; }
         public string EGN { get; set; }
-        private int gradeBel;
-        private int gradeMath;
-        public int GradeBel
+        private double gradeBel;
+        private double gradeMath;
+        public double GradeBel
         {
             get { return this.gradeBel; }
             set
@@ -29,7 +29,7 @@ namespace Homework04._12._2023
                 ;
             }
         }
-        public int GradeMath
+        public double GradeMath
         {
             get { return this.gradeMath; }
             set
