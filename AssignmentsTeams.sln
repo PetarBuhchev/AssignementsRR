@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework04.12.2023", "Homew
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise07.12.2023", "Exercise07.12.2023\Exercise07.12.2023.csproj", "{7A263D04-8CAA-41AB-94FD-B15C252DBA0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseArray", "ExerciseArray1\ExerciseArray.csproj", "{8B7E0472-C593-417B-A925-E326F9F5C55E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseArray", "ExerciseArray1\ExerciseArray.csproj", "{8B7E0472-C593-417B-A925-E326F9F5C55E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseLists", "ExerciseLists\ExerciseLists.csproj", "{BC7AD586-8ED7-489D-ACDB-9C1BCAAF0366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseLists", "ExerciseLists\ExerciseLists.csproj", "{BC7AD586-8ED7-489D-ACDB-9C1BCAAF0366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasledqvane", "Nasledqvane\Nasledqvane.csproj", "{840F0370-478F-46B7-9A06-19EEC9E6F594}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{BC7AD586-8ED7-489D-ACDB-9C1BCAAF0366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC7AD586-8ED7-489D-ACDB-9C1BCAAF0366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC7AD586-8ED7-489D-ACDB-9C1BCAAF0366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840F0370-478F-46B7-9A06-19EEC9E6F594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840F0370-478F-46B7-9A06-19EEC9E6F594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840F0370-478F-46B7-9A06-19EEC9E6F594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840F0370-478F-46B7-9A06-19EEC9E6F594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
