@@ -24,7 +24,7 @@ namespace Nasledqvane
 
         public override string GetFullName()
         {
-            return $"{this.FirstName} {this.LastName} have average grade of {this.averageGrade}";
+            return base.GetFullName() + " " + this.averageGrade;
         }
 
         public bool IsExcellentStudent()
