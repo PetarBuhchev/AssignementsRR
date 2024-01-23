@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,6 +21,12 @@ namespace AbstractClasses
         public override double CalculatePerimeter()
         {
             return 2 * Math.PI * this.side;
+        }
+
+        public override void Print()
+        {
+            base.Print();
+            Console.WriteLine("This shape is shpere.");
         }
     }
 }
