@@ -19,7 +19,7 @@ namespace AbstractClasses
 
         public override double CalculatePerimeter()
         {
-            return 0;
+            return 2 * Math.PI * this.side;
         }
     }
 }
