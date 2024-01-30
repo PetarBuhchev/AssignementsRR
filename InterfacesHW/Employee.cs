@@ -40,8 +40,6 @@ namespace InterfacesHW
             } 
         }
 
-        string IPerson.Name => throw new NotImplementedException();
-
         public Employee(string name, int age) 
         {
             this.Name = name;
