@@ -41,9 +41,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesHW", "InterfacesHW\InterfacesHW.csproj", "{66266019-4C08-4626-A845-F63C6736F7A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad_26", "Zadacha26DZI\zad_26.csproj", "{D5DAC98A-0352-47F4-BCBB-0D7E6F8ED7E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zad_26", "Zadacha26DZI\zad_26.csproj", "{D5DAC98A-0352-47F4-BCBB-0D7E6F8ED7E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trry", "Trry\Trry.csproj", "{1B591F9F-A265-4B15-A9D6-C82EFFCEA87F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trry", "Trry\Trry.csproj", "{1B591F9F-A265-4B15-A9D6-C82EFFCEA87F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha1,2p115", "Zadacha1p115\Zadacha1,2p115.csproj", "{436BEB15-62D6-442C-AC4C-231467093A1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{1B591F9F-A265-4B15-A9D6-C82EFFCEA87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B591F9F-A265-4B15-A9D6-C82EFFCEA87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B591F9F-A265-4B15-A9D6-C82EFFCEA87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436BEB15-62D6-442C-AC4C-231467093A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436BEB15-62D6-442C-AC4C-231467093A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436BEB15-62D6-442C-AC4C-231467093A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436BEB15-62D6-442C-AC4C-231467093A1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
