@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trry", "Trry\Trry.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha1,2p115", "Zadacha1p115\Zadacha1,2p115.csproj", "{436BEB15-62D6-442C-AC4C-231467093A1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{D4D10D2F-D363-4FB4-8975-93AE51CFAF00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{436BEB15-62D6-442C-AC4C-231467093A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{436BEB15-62D6-442C-AC4C-231467093A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{436BEB15-62D6-442C-AC4C-231467093A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D10D2F-D363-4FB4-8975-93AE51CFAF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D10D2F-D363-4FB4-8975-93AE51CFAF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D10D2F-D363-4FB4-8975-93AE51CFAF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D10D2F-D363-4FB4-8975-93AE51CFAF00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
