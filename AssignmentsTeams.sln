@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha1,2p115", "Zadacha1p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{D4D10D2F-D363-4FB4-8975-93AE51CFAF00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework26.02.2024", "Homework26.02.2024\Homework26.02.2024.csproj", "{FE0600AE-4E72-4ACF-A16B-C1C9F1EC8C59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{D4D10D2F-D363-4FB4-8975-93AE51CFAF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4D10D2F-D363-4FB4-8975-93AE51CFAF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4D10D2F-D363-4FB4-8975-93AE51CFAF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0600AE-4E72-4ACF-A16B-C1C9F1EC8C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0600AE-4E72-4ACF-A16B-C1C9F1EC8C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0600AE-4E72-4ACF-A16B-C1C9F1EC8C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0600AE-4E72-4ACF-A16B-C1C9F1EC8C59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
