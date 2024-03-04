@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework26.02.2024", "Homework26.02.2024\Homework26.02.2024.csproj", "{FE0600AE-4E72-4ACF-A16B-C1C9F1EC8C59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSerialization", "CarSerialization\CarSerialization.csproj", "{73885870-466F-47C1-912B-5980E1BB9E33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{FE0600AE-4E72-4ACF-A16B-C1C9F1EC8C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE0600AE-4E72-4ACF-A16B-C1C9F1EC8C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE0600AE-4E72-4ACF-A16B-C1C9F1EC8C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73885870-466F-47C1-912B-5980E1BB9E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73885870-466F-47C1-912B-5980E1BB9E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73885870-466F-47C1-912B-5980E1BB9E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73885870-466F-47C1-912B-5980E1BB9E33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
