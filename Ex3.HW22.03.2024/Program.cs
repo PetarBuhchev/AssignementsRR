@@ -33,6 +33,7 @@ namespace Ex3.HW22._03._2024
 
             Console.WriteLine(min);
             Console.WriteLine(max);
+            arr.Ave
         }
     }
 }
