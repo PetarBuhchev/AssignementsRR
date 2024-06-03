@@ -129,6 +129,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_28052024", "HW_28052024\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW30052024", "HW30052024\HW30052024.csproj", "{D35E7931-F1F4-4979-A596-90C3F66D2693}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList1", "SortedList1\SortedList1.csproj", "{BF4ACFEE-35D9-45D1-986E-5E7D90F0ECF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -387,6 +389,10 @@ Global
 		{D35E7931-F1F4-4979-A596-90C3F66D2693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D35E7931-F1F4-4979-A596-90C3F66D2693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D35E7931-F1F4-4979-A596-90C3F66D2693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4ACFEE-35D9-45D1-986E-5E7D90F0ECF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4ACFEE-35D9-45D1-986E-5E7D90F0ECF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4ACFEE-35D9-45D1-986E-5E7D90F0ECF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4ACFEE-35D9-45D1-986E-5E7D90F0ECF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

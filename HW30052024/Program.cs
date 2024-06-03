@@ -41,7 +41,7 @@ namespace HW30052024
                 outputIndex = list.IndexOf(grades[4].ToString()) - 1;
             }
 
-            Console.WriteLine(list[outputIndex].ToString());
+            Console.WriteLine(list[outputIndex].ToString() + " " + list[outputIndex+1].ToString());
         }
     }
 }
