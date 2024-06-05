@@ -29,9 +29,9 @@ namespace SortedList2
                     {
                         Console.Write(item2 + " ");
                     }
+                Console.WriteLine();
                 }
             }
-            Console.WriteLine();
         }
     }
 }
